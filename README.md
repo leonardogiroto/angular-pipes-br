@@ -1,6 +1,6 @@
 # angular-pipes-br
 
-**angular-pipes-br** é uma biblioteca de Pipes para `Angular 4/5/6`.
+Biblioteca de Pipes BR para `Angular 4/5/6`.
 
 ## Instalação
 
@@ -17,7 +17,7 @@ npm test
 
 ## Uso
 
-Utilizar normalmente como um pipe do Angular.
+Utilizar como um pipe do Angular
 
 	CPF:      {{ '12316560857' | cpfFormat }} 
 	CNPJ:     {{ '48251874000148' | cnpjFormat }} 
