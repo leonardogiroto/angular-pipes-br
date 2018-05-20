@@ -8,6 +8,21 @@ Biblioteca de Pipes BR para `Angular 4/5/6`.
 npm install angular-pipes --save
 ```
 
+### Incluindo Módulo
+
+```
+import { PipesModule } from 'angular-pipes-br';
+
+@NgModule({
+    ...
+    imports: [
+      ...
+      PipesModule
+  ]
+  ...
+})
+```
+
 ### Rodando Testes
 
 ```
