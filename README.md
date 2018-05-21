@@ -5,7 +5,7 @@ Biblioteca de Pipes BR para `Angular 4/5/6`.
 ## Instalação
 
 ```
-npm install angular-pipes --save
+npm install angular-pipes-br --save
 ```
 
 ### Incluindo Módulo

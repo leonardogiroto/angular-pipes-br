@@ -1,9 +1,9 @@
 {
   "name": "angular-pipes-br",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Angular 4/5/6 BR Pipes",
   "scripts": {
-    "build": "ngc",
+    "build": "ng-packagr -p package.json",
     "test": "ng test",
     "deploy": "npm run build && npm publish"
   },
