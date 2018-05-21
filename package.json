@@ -4,7 +4,7 @@
   "description": "Angular 4/5/6 BR Pipes",
   "scripts": {
     "build": "ng-packagr -p package.json",
-    "test": "ng test",
+    "test": "ng test --watch=false",
     "deploy": "npm run build && npm publish"
   },
   "author": "Leonardo Giroto",
