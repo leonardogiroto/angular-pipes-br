@@ -17,5 +17,3 @@ before_install:
 
 before_script:
 - npm install -g karma
-
-script: npm run test-travis
